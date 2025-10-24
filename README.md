@@ -21,9 +21,11 @@ Unauthorized use can violate privacy laws.
 git clone https://github.com/<your-username>/user-data-inspector.git
 cd user-data-inspector
 pip install -r requirements.txt
-
+```
 ---
 
 ## 🚀 Usage
 ```bash
 python main.py
+
+
