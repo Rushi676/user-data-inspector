@@ -1,3 +1,4 @@
 pyperclip
 pycryptodome
 requests
+pywin32
